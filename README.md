@@ -6,7 +6,7 @@
 ## How to use:
   Cryptor.exe path
   
-## Forexample:
+## Forxample:
   Cryptor.exe C:\Users 
   ←
   warning! Doing this will encrypt all the files in your folder!
